@@ -1,0 +1,7 @@
+{
+  "seeds": [
+    { "name": "토끼풀 씨앗", "image": "", "price": 800 },
+    { "name": "자몽 씨앗", "image": "", "price": 3250 },
+    { "name": "민들레 홀씨", "image": "", "price": 380 }
+  ]
+}
